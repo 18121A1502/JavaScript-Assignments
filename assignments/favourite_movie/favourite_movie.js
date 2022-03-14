@@ -1,7 +1,17 @@
 const movies = [];
 
 function favouriteMovie(operation, movie) {
-    // Write your code here
+    const movies=[];
+    if(operation==add)
+    {
+        const movies.push(movie);
+        console.log(const movies);
+    }
+    if(operation==remove)
+    {
+        const movies.pop(movie);
+        console.log(const movies);
+    }
 }
 
 module.exports = favouriteMovie;
