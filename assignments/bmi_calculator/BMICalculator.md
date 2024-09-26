@@ -21,7 +21,7 @@ Examples
 Input - 50, 5
 Output - 2
 
-Input - 80, 4
+Input - 80, 450
 Output - 5
 
 Input - 67, 0
